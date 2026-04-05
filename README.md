@@ -4,7 +4,7 @@ I enjoy building backend systems and learning how web applications work under th
 
 ## Current Focus
 - Python backend development
-- Flask applications
+- Fastapi applications
 - API development
 
 ## Projects
