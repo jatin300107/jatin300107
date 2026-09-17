@@ -5,7 +5,7 @@
 **Currently working on**
 - Agentic AI systems — LLM function-calling, tool orchestration, persistent memory
 - Backend architecture — FastAPI, Supabase/Postgres, JWT/RBAC
-- Contributing to Apache Airflow as GSoC 2027 prep
+
 
 **Projects**
 
