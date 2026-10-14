@@ -15,7 +15,7 @@
 
 **BusTrack** — Geospatial transit tracking backend. 40+ endpoints, dead-reckoning engine, JWT/RBAC, deployed on Render/Vercel/Supabase.
 
-**Kabadiwala Connect** *(SIH 2026, in progress)* — Platform connecting informal e-waste collectors to authorized recyclers. YOLO-based classification, price estimation, recycler matching.
+**Kabadiwala Connect**  — Platform connecting informal e-waste collectors to authorized recyclers. YOLO-based classification, price estimation, recycler matching.
 
 **Stack:** Python, FastAPI, Supabase, Gemini, PostgreSQL
 
